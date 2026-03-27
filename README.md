@@ -1,9 +1,6 @@
 # 🎬 **IMDB Movie Analysis** 
 *Data Science Analysis of 3000+ Movies for Movie Producers*
 
-[
-[
-[
 
 ***
 
