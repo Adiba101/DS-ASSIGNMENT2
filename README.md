@@ -136,12 +136,7 @@ IMDB Dataset Columns:
 
 ***
 
-## 🤝 **Contributing**
-1. Fork repository
-2. Add new analyses (profit by genre, runtime vs ROI, etc.)
-3. Submit PR with your insights!
 
-***
 
 ## 📄 **License**
 MIT License - Free to use for commercial movie production! 🎥
